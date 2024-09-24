@@ -1,0 +1,4 @@
+requests
+SpeechRecognition
+torch
+TTS
