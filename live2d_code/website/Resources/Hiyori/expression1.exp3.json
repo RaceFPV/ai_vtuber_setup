@@ -1,0 +1,80 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"Value": -30,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleY",
+			"Value": 30,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"Value": -30,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": -3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBreath",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamShoulder",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRibbon",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamSkirt",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_3_ArtMesh54",
+			"Value": -45,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_ArtMesh54",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

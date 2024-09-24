@@ -1,0 +1,49 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "hiyori_pro_t11.moc3",
+		"Textures": [
+			"hiyori_pro_t11.2048/texture_00.png",
+			"hiyori_pro_t11.2048/texture_01.png"
+		],
+		"Physics": "hiyori_pro_t11.physics3.json",
+		"DisplayInfo": "hiyori_pro_t11.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "expression1",
+				"File": "../website/Resources/Hiyori/expression1.exp3.json"
+			},
+			{
+				"Name": "idle",
+				"File": "../website/Resources/Hiyori/idle.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Body"
+		},
+		{
+			"Id": "HitArea3",
+			"Name": "Head"
+		}
+	]
+}
